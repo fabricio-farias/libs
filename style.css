@@ -1,8 +1,0 @@
-.selectbox_cidades{border-color: #333333!important;}
-#cidade_dados{display: none;}
-
-svg h1, svg h2, svg h3, svg h4, svg h5,svg h6{font-family: "Noto Sans", sans-serif;}
-svg p, svg span, svg a{font-family: "Atkinson Hyperlegible", sans-serif;}
-#anotherTooltip {background: #ffffff;border: 1px solid #112f4e;border-radius: 6px;padding: 5px 10px;z-index: 1;font-size: 24px;color: #112f4e;line-height: normal;}
-svg path:hover, svg path:visited, svg path.active{-webkit-tap-highlight-color: rgba(0, 0, 0, 0);stroke-miterlimit: 10;stroke-opacity: 1; /*opacity: 0.4!important;*/fill: #112F4E;}
-svg .link-disabled{cursor: no-drop}
