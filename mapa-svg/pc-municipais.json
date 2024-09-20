@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "abaiara",
+    "nome": "Abaiara",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://abaiara.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://abaiara.ce.gov.br/portal-da-transparencia/",
+        "site": "https://abaiara.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraabaiara.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://camaraabaiara.ce.gov.br/portal-da-transparencia/",
+        "site": "https://camaraabaiara.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "acarau",
+    "nome": "Acarau",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.acarau.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.acarau.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.acarau.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmacarau.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://cmacarau.ce.gov.br/acessoainformacao",
+        "site": "https://cmacarau.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "acarape",
+    "nome": "Acarape",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://acarape.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://acarape.ce.gov.br/acessoainformacao.php",
+        "site": "https://acarape.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraacarape.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraacarape.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaraacarape.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "acopiara",
+    "nome": "Acopiara",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.acopiara.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.acopiara.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.acopiara.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraacopiara.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://www.camaraacopiara.ce.gov.br/transparencia/",
+        "site": "https://www.camaraacopiara.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "aiuaba",
+    "nome": "Aiuaba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.aiuaba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.aiuaba.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.aiuaba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmaiuaba.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://cmaiuaba.ce.gov.br/acessoainformacao",
+        "site": "https://cmaiuaba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "alcantaras",
+    "nome": "Alcântaras",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://esic.alcantaras.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://alcantaras.ce.gov.br/acesso-a-informacao",
+        "site": "https://alcantaras.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraalcantaras.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraalcantaras.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaraalcantaras.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "altaneira",
+    "nome": "Altaneira",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.altaneira.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.altaneira.ce.gov.br/transparencia/",
+        "site": "https://www.altaneira.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.altaneira.ce.leg.br/ouvidoria",
+        "portal_transparencia": "https://www.altaneira.ce.leg.br/acessoainformacao",
+        "site": "https://www.altaneira.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "alto_santo",
+    "nome": "Alto Santo",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.altosanto.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.altosanto.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.altosanto.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.camaraaltosanto.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraaltosanto.ce.gov.br/acesso-a-informacao/",
+        "site": "https://www.camaraaltosanto.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "amontada",
+    "nome": "Amontada",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.amontada.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.amontada.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.amontada.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraamontada.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaraamontada.ce.gov.br/acessoainformacao",
+        "site": "https://camaraamontada.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "antonina_do_norte",
+    "nome": "Antonina do Norte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://antoninadonorte.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.governotransparente.com.br/11559487",
+        "site": "https://antoninadonorte.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmantoninadonorte.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://cmantoninadonorte.ce.gov.br/portal-da-transparencia/",
+        "site": "https://cmantoninadonorte.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "apuiares",
+    "nome": "Apuiarés",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.apuiares.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.apuiares.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.apuiares.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraapuiares.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraapuiares.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaraapuiares.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "aquiraz",
+    "nome": "Aquiraz",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.aquiraz.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.aquiraz.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.aquiraz.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.cmaquiraz.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://cmaquiraz.ce.gov.br/acesso-a-informacao/",
+        "site": "https://cmaquiraz.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "aracati",
+    "nome": "Aracati",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.aracati.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "acessoainformacao.php",
+        "site": "https://www.aracati.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.participar.com.br/cmaracati/users/sign_in",
+        "portal_transparencia": "https://www.cmaracati.ce.gov.br/",
+        "site": "https://www.cmaracati.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "aracoiaba",
+    "nome": "Aracoiaba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.aracoiaba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.aracoiaba.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.aracoiaba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraaracoiaba.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraaracoiaba.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaraaracoiaba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ararenda",
+    "nome": "Ararendá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ararenda.ce.gov.br/faq/",
+        "portal_transparencia": "https://ararenda.ce.gov.br/transparencia",
+        "site": "https://ararenda.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaradeararenda.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaradeararenda.ce.gov.br/acessoainformacao",
+        "site": "https://camaradeararenda.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "araripe",
+    "nome": "Araripe",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://araripe.aexecutivo.com.br/ouvidoria.php",
+        "portal_transparencia": "https://araripe.aexecutivo.com.br/acessoainformacao.php",
+        "site": "https://www.araripe.ce.gov.br/site/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmararipe.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.cmararipe.ce.gov.br/acessoainformacao",
+        "site": "https://www.cmararipe.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "aratuba",
+    "nome": "Aratuba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://aratuba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://aratuba.ce.gov.br/acessoainformacao.php",
+        "site": "https://aratuba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraaratuba.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraaratuba.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaraaratuba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "arneiroz",
+    "nome": "Arneiroz",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ouvidoria.fvsinfor.com.br/",
+        "portal_transparencia": "https://www.arneiroz.ce.gov.br/transparencia/",
+        "site": "https://www.arneiroz.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraarneiroz.ce.gov.br/participe/",
+        "portal_transparencia": "https://camaraarneiroz.ce.gov.br/transparencia/",
+        "site": "https://camaraarneiroz.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "assare",
+    "nome": "Assaré",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://assare.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://assare.ce.gov.br/acessoainformacao.php",
+        "site": "https://assare.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraassare.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaraassare.ce.gov.br/acessoainformacao",
+        "site": "https://camaraassare.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "aurora",
+    "nome": "Aurora",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://aurora.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://aurora.ce.gov.br/acessoainformacao.php",
+        "site": "https://aurora.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmaurora.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://cmaurora.ce.gov.br/transparencia/",
+        "site": "https://cmaurora.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "baixio",
+    "nome": "Baixio",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.baixio.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.baixio.ce.gov.br/baixio-transparente/",
+        "site": "https://www.baixio.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarabaixio.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.camarabaixio.ce.gov.br/baixio-transparente/",
+        "site": "https://www.camarabaixio.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "banabuiu",
+    "nome": "Banabuiú",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.banabuiu.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.banabuiu.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.banabuiu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarabanabuiu.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camarabanabuiu.ce.gov.br/acessoainformacao",
+        "site": "https://camarabanabuiu.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "barbalha",
+    "nome": "Barbalha",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://barbalha.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://barbalha.ce.gov.br/acessoainformacao.php",
+        "site": "https://barbalha.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaradebarbalha.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaradebarbalha.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaradebarbalha.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "barreira",
+    "nome": "Barreira",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://barreira.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://barreira.ce.gov.br/acessoainformacao.php",
+        "site": "https://barreira.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarabarreira.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camarabarreira.ce.gov.br/acessoainformacao",
+        "site": "https://camarabarreira.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "barro",
+    "nome": "Barro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://barro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://barro.ce.gov.br/acessoainformacao.php",
+        "site": "https://barro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.barro.ce.leg.br/ouvidoria",
+        "portal_transparencia": "https://governotransparente.com.br/11819589",
+        "site": "https://www.barro.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "barroquinha",
+    "nome": "Barroquinha",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1183490",
+        "portal_transparencia": "https://barroquinha.ce.gov.br/acessoainformacao/",
+        "site": "https://barroquinha.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://sic.camarabarroquinha.ce.gov.br/esic/home",
+        "portal_transparencia": "https://www.camarabarroquinha.ce.gov.br/transparencia",
+        "site": "https://www.camarabarroquinha.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "baturite",
+    "nome": "Baturité",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.baturite.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.baturite.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.baturite.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarabaturite.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camarabaturite.ce.gov.br/acessoainformacao",
+        "site": "https://www.camarabaturite.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "beberibe",
+    "nome": "Beberibe",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.beberibe.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.beberibe.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.beberibe.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://siac.gtcontroller.com.br/cmbeberibe/login.php",
+        "portal_transparencia": "https://www.governotransparente.com.br/1187589",
+        "site": "https://www.cmbeberibe.ce.gov.br/#gsc.tab=0"
+      }
+    }
+  },
+  {
+    "id": "bela_cruz",
+    "nome": "Bela Cruz",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.belacruz.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.belacruz.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.belacruz.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmbelacruz.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.cmbelacruz.ce.gov.br/acessoainformacao",
+        "site": "https://www.cmbelacruz.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "boa_viagem",
+    "nome": "Boa Viagem",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.boaviagem.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.boaviagem.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.boaviagem.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraboaviagem.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://www.camaraboaviagem.ce.gov.br/transparencia/",
+        "site": "https://www.camaraboaviagem.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "brejo_santo",
+    "nome": "Brejo Santo",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.brejosanto.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "http://www.bssistemasweb.com.br/transparencia/home?ug=p031&ano=2024",
+        "site": "https://www.brejosanto.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarabrejosanto.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://camarabrejosanto.ce.gov.br/portal-da-transparencia/",
+        "site": "https://camarabrejosanto.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "camocim",
+    "nome": "Camocim",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.participar.com.br/camocim/users/sign_in",
+        "portal_transparencia": "https://camocim.ce.gov.br/acesso-a-informacao/",
+        "site": "https://camocim.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracamocim.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaracamocim.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaracamocim.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "campos_sales",
+    "nome": "Campos Sales",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.campossales.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.campossales.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.campossales.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmcampossales.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.cmcampossales.ce.gov.br/acessoainformacao",
+        "site": "https://www.cmcampossales.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "caninde",
+    "nome": "Canindé",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://cidigital.com.br/ouvidoria/caninde",
+        "portal_transparencia": "https://www.caninde.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.caninde.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmcaninde.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://cmcaninde.ce.gov.br/transparencia/acesso-a-informacao/",
+        "site": "https://cmcaninde.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "capistrano",
+    "nome": "Capistrano",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.capistrano.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.capistrano.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.capistrano.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaracapistrano.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaracapistrano.ce.gov.br/acessoainformacao",
+        "site": "https://camaracapistrano.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "caridade",
+    "nome": "Caridade",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.caridade.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.caridade.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.caridade.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracaridade.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaracaridade.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaracaridade.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "carire",
+    "nome": "Cariré",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.carire.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.carire.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.carire.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracarire.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaracarire.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaracarire.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "caririacu",
+    "nome": "Caririaçu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.caririacu.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.caririacu.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.caririacu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaracaririacu.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaracaririacu.ce.gov.br/acessoainformacao",
+        "site": "https://camaracaririacu.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "carius",
+    "nome": "Cariús",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1205489",
+        "portal_transparencia": "https://www.governotransparente.com.br/1205489",
+        "site": "https://carius.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaracarius.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://camaracarius.ce.gov.br/transparencia/",
+        "site": "https://camaracarius.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "carnaubal",
+    "nome": "Carnaubal",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ouvidoria.carnaubal.ce.gov.br/",
+        "portal_transparencia": "https://www.carnaubal.ce.gov.br/transparencia",
+        "site": "https://www.carnaubal.ce.gov.br/site"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracarnaubal.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaracarnaubal.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaracarnaubal.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "cascavel",
+    "nome": "Cascavel",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.cascavel.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.cascavel.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.cascavel.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracascavel.pr.gov.br/transparencia/acesso-a-informacao/ouvidoria/",
+        "portal_transparencia": "https://camaracascavel.atende.net/",
+        "site": "https://www.camaracascavel.pr.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "catarina",
+    "nome": "Catarina",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.catarina.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.catarina.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.catarina.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracatarina.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://www.camaracatarina.ce.gov.br/transparencia/",
+        "site": "https://www.camaracatarina.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "catunda",
+    "nome": "Catunda",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.catunda.ce.gov.br/ouvidoria/5efa5a46-0f70-4951-a27d-ac91ee7bf9f6/",
+        "portal_transparencia": "https://www.catunda.ce.gov.br/transparencia",
+        "site": "https://www.catunda.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaracatunda.ce.gov.br/ouvidoria-login/",
+        "portal_transparencia": "https://camaracatunda.ce.gov.br/transparencia/",
+        "site": "https://camaracatunda.ce.gov.br/home/"
+      }
+    }
+  },
+  {
+    "id": "caucaia",
+    "nome": "Caucaia",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://participar.com.br/caucaia/users/sign_in",
+        "portal_transparencia": "https://www.caucaia.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.caucaia.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmcaucaia.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.cmcaucaia.ce.gov.br/portal-da-transparencia/",
+        "site": "https://www.cmcaucaia.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "cedro",
+    "nome": "Cedro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.cedro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.cedro.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.cedro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaradecedro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaradecedro.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaradecedro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "chaval",
+    "nome": "Chaval",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1218489",
+        "portal_transparencia": "https://chaval.ce.gov.br/acesso-a-informacao/",
+        "site": "https://chaval.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarachaval.ce.gov.br/fale_conosco/",
+        "portal_transparencia": "https://www.governotransparente.com.br/1218588",
+        "site": "https://camarachaval.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "choro",
+    "nome": "Choró",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.choro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.choro.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.choro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarachoro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camarachoro.ce.gov.br/acessoainformacao",
+        "site": "https://www.camarachoro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "chorozinho",
+    "nome": "Chorozinho",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1222487",
+        "portal_transparencia": "https://www.governotransparente.com.br/12229487",
+        "site": "https://chorozinho.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarachorozinho.ce.gov.br/incorporar?link=http:%2F%2Fwww.gdic.com.br%2Fmodulo%2Fouvidoria%2Flogin%2F1222586?clean=true",
+        "portal_transparencia": "https://www.camarachorozinho.ce.gov.br/incorporar?link=https:%2F%2Fwww.governotransparente.com.br%2F12229586?clean=true",
+        "site": "https://www.camarachorozinho.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "coreau",
+    "nome": "Coreaú",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://coreau.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.coreau.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.coreau.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmcoreau.ce.gov.br/faleconosco",
+        "portal_transparencia": "http://www.sstransparenciamunicipal.net:90/transparencia/transparenciaisapi.dll/OhX1AwJpd0c22yQthPVtAq/$/?entcod=60",
+        "site": "https://www.cmcoreau.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "crateus",
+    "nome": "Crateús",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://siac.gtcontroller.com.br/pmcrateus/login.php",
+        "portal_transparencia": "https://www.crateus.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.crateus.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaracrateus.ce.gov.br/#/ouvidoria",
+        "portal_transparencia": "https://camaracrateus.ce.gov.br/#/acessoainformacao",
+        "site": "https://camaracrateus.ce.gov.br/#/home"
+      }
+    }
+  },
+  {
+    "id": "crato",
+    "nome": "Crato",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.crato.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.crato.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.crato.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracrato.ce.gov.br/ouvidoria.xhtml",
+        "portal_transparencia": "https://www.camaracrato.ce.gov.br/transparencia.xhtml",
+        "site": "https://www.camaracrato.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "croata",
+    "nome": "Croatá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://esic.croata.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://croata.ce.gov.br/acesso-a-informacao",
+        "site": "https://croata.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaracroata.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://www.camaracroata.ce.gov.br/transparencia/",
+        "site": "https://www.camaracroata.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "cruz",
+    "nome": "Cruz",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://cruz.ce.gov.br/transparencia-municipal/ouvidoria/",
+        "portal_transparencia": "https://cruz.ce.gov.br/transparencia-municipal/",
+        "site": "https://cruz.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmcruz.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://cmcruz.ce.gov.br/acessoainformacao",
+        "site": "https://cmcruz.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "deputado_irapuan_pinheiro",
+    "nome": "Deputado Irapuan Pinheiro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://irapuanpinheiro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://irapuanpinheiro.ce.gov.br/acessoainformacao.php",
+        "site": "https://irapuanpinheiro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarairapuanpinheiro.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://camarairapuanpinheiro.ce.gov.br/transparencia/",
+        "site": "https://camarairapuanpinheiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "erere",
+    "nome": "Ererê",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://esic.erere.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.erere.ce.gov.br/acesso-a-informacao",
+        "site": "https://www.erere.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraerere.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaraerere.ce.gov.br/acessoainformacao",
+        "site": "https://camaraerere.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "eusebio",
+    "nome": "Eusébio",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.maxcontrole.tudotransparente.com.br/eusebio/prefeitura/ouvidoria",
+        "portal_transparencia": "https://eusebio.tudotransparente.com.br/",
+        "site": "https://eusebio.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.cmeusebio.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://cmeusebio.ce.gov.br/transparencia-camara/",
+        "site": "https://cmeusebio.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "farias_brito",
+    "nome": "Farias Brito",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.fariasbrito.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.governotransparente.com.br/12379489",
+        "site": "https://www.fariasbrito.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarafariasbrito.ce.gov.br/ouvidoria-login/",
+        "portal_transparencia": "https://governotransparente.com.br/12379590",
+        "site": "https://www.camarafariasbrito.ce.gov.br/home/"
+      }
+    }
+  },
+  {
+    "id": "forquilha",
+    "nome": "Forquilha",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.forquilha.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.forquilha.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.forquilha.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://sic.camaraforquilha.ce.gov.br/",
+        "portal_transparencia": "https://www.camaraforquilha.ce.gov.br/transparencia",
+        "site": "https://www.camaraforquilha.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "fortaleza",
+    "nome": "Fortaleza",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://catalogodeservicos.fortaleza.ce.gov.br/categoria/ouvidoria",
+        "portal_transparencia": "https://portaltransparencia.fortaleza.ce.gov.br/",
+        "site": "https://www.fortaleza.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmfor.ce.gov.br/central-da-cidadania/ouvidoria/",
+        "portal_transparencia": "https://transparencia.cmfor.ce.gov.br/",
+        "site": "https://www.cmfor.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "fortim",
+    "nome": "Fortim",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.fortim.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.fortim.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.fortim.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1243589",
+        "portal_transparencia": "https://www.governotransparente.com.br/12439589",
+        "site": "https://www.fortim.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "frecheirinha",
+    "nome": "Frecheirinha",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.frecheirinha.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.frecheirinha.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.frecheirinha.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarafrecheirinha.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://camarafrecheirinha.ce.gov.br/transparencia/",
+        "site": "https://camarafrecheirinha.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "general_sampaio",
+    "nome": "General Sampaio",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.generalsampaio.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.generalsampaio.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.generalsampaio.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarageneralsampaio.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://www.camarageneralsampaio.ce.gov.br/transparencia/",
+        "site": "https://www.camarageneralsampaio.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "graca",
+    "nome": "Graça",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.graca.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.graca.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.graca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.cmgraca.ce.gov.br/",
+        "portal_transparencia": "https://www.cmgraca.ce.gov.br/transparencia",
+        "site": "https://www.cmgraca.ce.gov.br/site"
+      }
+    }
+  },
+  {
+    "id": "granja",
+    "nome": "Granja",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.granja.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.granja.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.granja.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaragranja.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaragranja.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaragranja.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "granjeiro",
+    "nome": "Granjeiro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.granjeiro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.granjeiro.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.granjeiro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaragranjeiro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camaragranjeiro.ce.gov.br/acessoainformacao",
+        "site": "https://camaragranjeiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "groairas",
+    "nome": "Groaíras",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ouvidoria.groairas.ce.gov.br/",
+        "portal_transparencia": "https://www.groairas.ce.gov.br/transparencia",
+        "site": "https://www.groairas.ce.gov.br/site"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.camaragroairas.ce.gov.br/",
+        "portal_transparencia": "https://www.camaragroairas.ce.gov.br/transparencia",
+        "site": "https://www.camaragroairas.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "guaiuba",
+    "nome": "Guaiúba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.guaiuba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.guaiuba.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.guaiuba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraguaiuba.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://camaraguaiuba.ce.gov.br/transparencia/",
+        "site": "https://camaraguaiuba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "guaraciaba_do_norte",
+    "nome": "Guaraciaba do Norte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://portalmunicipios.com/servicos/MenuPrincipal.asp?vMEN_CODIGO=727&vDESTINO=PAGE-OUVIDORIA&vEMP_CNPJ=07569205000131&vORG_CODIGO=0303008",
+        "portal_transparencia": "https://www.guaraciabadonorte.ce.gov.br/transparencia.xhtml",
+        "site": "https://www.guaraciabadonorte.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmguaraciabadonorte.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "https://www.cmguaraciabadonorte.ce.gov.br/transparencia/",
+        "site": "https://www.cmguaraciabadonorte.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "guaramiranga",
+    "nome": "Guaramiranga",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://guaramiranga.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://guaramiranga.ce.gov.br/acessoainformacao.php",
+        "site": "https://guaramiranga.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraguaramiranga.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.camaraguaramiranga.ce.gov.br/acessoainformacao",
+        "site": "https://www.camaraguaramiranga.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "hidrolandia",
+    "nome": "Hidrolândia",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.hidrolandia.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.hidrolandia.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.hidrolandia.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.camarahidrolandia.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://camarahidrolandia.ce.gov.br/acesso-a-informacao",
+        "site": "https://camarahidrolandia.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "horizonte",
+    "nome": "Horizonte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.horizonte.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.horizonte.ce.gov.br/horizonte-transparente/",
+        "site": "https://servicos2.speedgov.com.br/horizonte/segunda_via/iptu"
+      },
+      "camara": {
+        "ouvidoria": "https://www.horizonte.ce.leg.br/ouvidoria",
+        "portal_transparencia": "https://www.horizonte.ce.leg.br/transparencia-1",
+        "site": "https://www.horizonte.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "ibaretama",
+    "nome": "Ibaretama",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ibaretama.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.ibaretama.ce.gov.br/transparencia/",
+        "site": "https://www.ibaretama.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "",
+        "portal_transparencia": "https://www.governotransparente.com.br/12649587",
+        "site": "https://camaraibaretama.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ibiapina",
+    "nome": "Ibiapina",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ibiapina.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.ibiapina.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.ibiapina.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmibiapina.ce.gov.br/faleconosco",
+        "portal_transparencia": "",
+        "site": "https://www.cmibiapina.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ibicuitinga",
+    "nome": "Ibicuitinga",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ibicuitinga.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://ibicuitinga.ce.gov.br/acessoainformacao.php",
+        "site": "https://ibicuitinga.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmibicuitinga.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://cmibicuitinga.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "icapui",
+    "nome": "Icapuí",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.icapui.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.icapui.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.icapui.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmicapui.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmicapui.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ico",
+    "nome": "Icó",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ico.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.ico.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.ico.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraico.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraico.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "iguatu",
+    "nome": "Iguatu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ouvidoria.iguatu.ce.gov.br/manifesto",
+        "portal_transparencia": "http://www.sstransparenciamunicipal.net:90/transparencia/transparenciaisapi.dll/-mqny-T1MK2CO0UJ8xjmXq/$/?entcod=296",
+        "site": "https://iguatu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraiguatu.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaraiguatu.ce.gov.br/parlamentares/"
+      }
+    }
+  },
+  {
+    "id": "independencia",
+    "nome": "Independência",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.independencia.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "",
+        "site": "https://www.independencia.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraindependencia.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraindependencia.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ipaporanga",
+    "nome": "Ipaporanga",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ipaporanga.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.ipaporanga.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.ipaporanga.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraipaporanga.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaraipaporanga.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ipaumirim",
+    "nome": "Ipaumirim",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ipaumirim.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.ipaumirim.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.ipaumirim.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraipaumirim.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraipaumirim.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ipu",
+    "nome": "Ipu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://esic.ipu.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://ipu.ce.gov.br/acesso-a-informacao/",
+        "site": "https://ipu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmipu.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.cmipu.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ipueiras",
+    "nome": "Ipueiras",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ipueiras.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.ipueiras.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.ipueiras.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://transparencia.ipueiras.to.leg.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://ipueiras.to.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "iracema",
+    "nome": "Iracema",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.iracema.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.iracema.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.iracema.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarairacema.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarairacema.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "iraucuba",
+    "nome": "Irauçuba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://iraucuba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://iraucuba.ce.gov.br/acessoainformacao.php",
+        "site": "https://iraucuba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmiraucuba.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://cmiraucuba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "itaicaba",
+    "nome": "Itaiçaba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.itaicaba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.itaicaba.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.itaicaba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1286590",
+        "portal_transparencia": "",
+        "site": "https://www.itaicaba.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "itaitinga",
+    "nome": "Itaitinga",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.itaitinga.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.itaitinga.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.itaitinga.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraitaitinga.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaraitaitinga.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "itapaje",
+    "nome": "Itapajé",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.itapaje.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.itapaje.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.itapaje.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.cmitapaje.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmitapaje.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "itapipoca",
+    "nome": "Itapipoca",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://itapipoca.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://itapipoca.ce.gov.br/acessoainformacao.php",
+        "site": "https://itapipoca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraitapipoca.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraitapipoca.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "itapiuna",
+    "nome": "Itapiúna",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.itapiuna.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.itapiuna.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.itapiuna.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.itapiuna.ce.leg.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.itapiuna.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "itarema",
+    "nome": "Itarema",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.itarema.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.itarema.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.itarema.ce.gov.br/omunicipio.php"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.camaraitarema.ce.gov.br/esic/home",
+        "portal_transparencia": "",
+        "site": "https://camaraitarema.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "itatira",
+    "nome": "Itatira",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.itatira.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.itatira.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.itatira.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraitatira.ce.gov.br/fale-conosco/",
+        "portal_transparencia": "",
+        "site": "https://camaraitatira.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jaguaretama",
+    "nome": "Jaguaretama",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.jaguaretama.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.jaguaretama.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.jaguaretama.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarajaguaretama.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camarajaguaretama.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jaguaribara",
+    "nome": "Jaguaribara",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.jaguaribara.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://www.jaguaribara.ce.gov.br/transparencia#acesso-informacao",
+        "site": "https://www.jaguaribara.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarajaguaribara.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camarajaguaribara.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jaguaribe",
+    "nome": "Jaguaribe",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.jaguaribe.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.jaguaribe.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.jaguaribe.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarajaguaribe.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarajaguaribe.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jaguaruana",
+    "nome": "Jaguaruana",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.jaguaruana.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.jaguaruana.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.jaguaruana.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmjaguaruana.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmjaguaruana.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jardim",
+    "nome": "Jardim",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.jardim.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.jardim.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.jardim.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarajardim.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarajardim.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jati",
+    "nome": "Jati",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://jati.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://jati.ce.gov.br/transparencia-prefeitura/",
+        "site": "https://jati.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarajati.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camarajati.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jijoca_de_jericoacoara",
+    "nome": "Jijoca de Jericoacoara",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.jijocadejericoacoara.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.jijocadejericoacoara.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.jijocadejericoacoara.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmjijocadejericoacoara.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.cmjijocadejericoacoara.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "juazeiro_do_norte",
+    "nome": "Juazeiro do Norte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://juazeirodonorte.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://juazeirodonorte.ce.gov.br/acessoainformacao.php",
+        "site": "https://juazeirodonorte.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.camarajuazeiro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camarajuazeiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "jucas",
+    "nome": "Jucás",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://jucas.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://www.governotransparente.com.br/1313490",
+        "site": "https://jucas.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarajucas.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camarajucas.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "lavras_da_mangabeira",
+    "nome": "Lavras da Mangabeira",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.lavrasdamangabeira.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.lavrasdamangabeira.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.lavrasdamangabeira.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaralavras.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaralavras.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "limoeiro_do_norte",
+    "nome": "Limoeiro do Norte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.limoeirodonorte.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.limoeirodonorte.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.limoeirodonorte.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaralimoeirodonorte.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaralimoeirodonorte.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "madalena",
+    "nome": "Madalena",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://falabr.cgu.gov.br/web/home",
+        "portal_transparencia": "https://www.madalena.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.madalena.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaramadalena.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaramadalena.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "maracanau",
+    "nome": "Maracanaú",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.maracanau.ce.gov.br/ouvidoria-geral-do-municipio/#manifestacao",
+        "portal_transparencia": "https://www.maracanau.ce.gov.br/portal-da-transparencia-acesso-a-informacao/",
+        "site": "https://www.maracanau.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaramaracanau.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaramaracanau.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "maranguape",
+    "nome": "Maranguape",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.maxcontrole.tudotransparente.com.br/maranguape/prefeitura/ouvidoria",
+        "portal_transparencia": "https://maranguape.ce.gov.br/portaltransparencia/",
+        "site": "https://maranguape.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "",
+        "portal_transparencia": "",
+        "site": "https://camaramaranguape.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "marco",
+    "nome": "Marco",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://marco.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://marco.ce.gov.br/acessoainformacao.php",
+        "site": "https://marco.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaramunicipaldemarco.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaramunicipaldemarco.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "martinopole",
+    "nome": "Martinópole",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.martinopole.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.martinopole.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.martinopole.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://sic.camaramartinopole.ce.gov.br/esic/manifestacao",
+        "portal_transparencia": "",
+        "site": "https://www.camaramartinopole.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "massape",
+    "nome": "Massapê",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://massape.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://massape.ce.gov.br/acessoainformacao.php",
+        "site": "https://massape.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://sic.camaramassape.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://camaramassape.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "mauriti",
+    "nome": "Mauriti",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.mauriti.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.mauriti.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.mauriti.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmmauriti.legislativomunicipal.com/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarademauriti.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "meruoca",
+    "nome": "Meruoca",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://meruoca.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://meruoca.ce.gov.br/acessoainformacao.php",
+        "site": "https://meruoca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.camarameruoca.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://www.camarameruoca.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "milagres",
+    "nome": "Milagres",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.milagres.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.milagres.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.milagres.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaramilagres.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaramilagres.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "milha",
+    "nome": "Milhã",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.milha.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.milha.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.milha.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaramilha.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaramilha.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "miraima",
+    "nome": "Miraíma",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.miraima.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.miraima.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.miraima.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmmiraima.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.cmmiraima.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "missao_velha",
+    "nome": "Missão Velha",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://missaovelha.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://missaovelha.ce.gov.br/portal-transparencia/",
+        "site": "https://missaovelha.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaramissaovelha.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaramissaovelha.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "mombaca",
+    "nome": "Mombaça",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.mombaca.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.mombaca.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.mombaca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaramombaca.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaramombaca.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "monsenhor_tabosa",
+    "nome": "Monsenhor Tabosa",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.monsenhortabosa.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.monsenhortabosa.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.monsenhortabosa.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmmonsenhortabosa.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmmonsenhortabosa.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "morada_nova",
+    "nome": "Morada Nova",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.participar.com.br/moradanova/users/sign_in",
+        "portal_transparencia": "https://www.moradanova.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.moradanova.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmmoradanova.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.cmmoradanova.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "moraujo",
+    "nome": "Moraújo",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.moraujo.ce.gov.br/faleconosco",
+        "portal_transparencia": "https://www.moraujo.ce.gov.br/informacao",
+        "site": "https://www.moraujo.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "http://www.cmmoraujo.ce.gov.br/faleconosco",
+        "portal_transparencia": "",
+        "site": "http://www.cmmoraujo.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "morrinhos",
+    "nome": "Morrinhos",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://morrinhos.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://morrinhos.ce.gov.br/acessoainformacao.php",
+        "site": "https://morrinhos.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaramorrinhos.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaramorrinhos.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "mucambo",
+    "nome": "Mucambo",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://mucambo.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://mucambo.ce.gov.br/transparencia/",
+        "site": "https://mucambo.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.camaramucambo.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://camaramucambo.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "mulungu",
+    "nome": "Mulungu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.mulungu.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.mulungu.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.mulungu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaramulungu.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaramulungu.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "nova_olinda",
+    "nome": "Nova Olinda",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://novaolinda.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://novaolinda.ce.gov.br/transparencia-dados-sempre-atualizados/",
+        "site": "https://novaolinda.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://portalmunicipios.com/servicos/MenuPrincipal.asp?vMEN_CODIGO=727&vORG_CODIGO=0101&vEMP_CNPJ=02152678000115",
+        "portal_transparencia": "",
+        "site": "https://www.camaranovaolinda.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "nova_russas",
+    "nome": "Nova Russas",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.novarussas.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.novarussas.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.novarussas.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.cmnovarussas.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmnovarussas.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "novo_oriente",
+    "nome": "Novo Oriente",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://novooriente.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://novooriente.ce.gov.br/acessoainformacao.php",
+        "site": "https://novooriente.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaranovooriente.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaranovooriente.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ocara",
+    "nome": "Ocara",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.ocara.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.ocara.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.ocara.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmocara.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://cmocara.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "oros",
+    "nome": "Orós",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://oros.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://oros.ce.gov.br/acessoainformacao.php",
+        "site": "https://oros.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraoros.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaraoros.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pacajus",
+    "nome": "Pacajus",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.participar.com.br/pacajus/users/sign_in",
+        "portal_transparencia": "https://www.pacajus.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.pacajus.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarapacajus.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camarapacajus.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pacatuba",
+    "nome": "Pacatuba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://pacatuba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://pacatuba.ce.gov.br/acessoainformacao.php",
+        "site": "https://pacatuba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmpacatuba.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.cmpacatuba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pacoti",
+    "nome": "Pacoti",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.pacoti.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.pacoti.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.pacoti.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmpacoti.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://cmpacoti.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pacuja",
+    "nome": "Pacujá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.pacuja.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.pacuja.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.pacuja.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.camarapacuja.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://www.camarapacuja.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "palhano",
+    "nome": "Palhano",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.palhano.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.palhano.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.palhano.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "",
+        "portal_transparencia": "",
+        "site": "https://www.camarapalhano.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "palmacia",
+    "nome": "Palmácia",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.palmacia.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.palmacia.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.palmacia.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "http://cm-palmacia.iouvidoria.com.br/",
+        "portal_transparencia": "",
+        "site": "https://cmpalmacia.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "paracuru",
+    "nome": "Paracuru",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.paracuru.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.paracuru.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.paracuru.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaradeparacuru.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaradeparacuru.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "paraipaba",
+    "nome": "Paraipaba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.paraipaba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.paraipaba.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.paraipaba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaraparaipaba.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaraparaipaba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "parambu",
+    "nome": "Parambu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://parambu.ce.gov.br/fala-parambu",
+        "portal_transparencia": "https://www.parambu.ce.gov.br/transparencia-2",
+        "site": "https://www.parambu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "",
+        "portal_transparencia": "",
+        "site": "https://camaraparambu.ce.gov.br/CAMARAPARAMBU/faces/jsp/inicio.jsp"
+      }
+    }
+  },
+  {
+    "id": "paramoti",
+    "nome": "Paramoti",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.paramoti.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.paramoti.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.paramoti.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraparamoti.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaraparamoti.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pedra_branca",
+    "nome": "Pedra Branca",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.pedrabranca.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.pedrabranca.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.pedrabranca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarapedrabranca.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camarapedrabranca.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "penaforte",
+    "nome": "Penaforte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.penaforte.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.penaforte.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.penaforte.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarapenaforte.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camarapenaforte.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pentecoste",
+    "nome": "Pentecoste",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.pentecoste.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.pentecoste.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.pentecoste.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmpentecoste.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmpentecoste.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pereiro",
+    "nome": "Pereiro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://pereiro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://pereiro.ce.gov.br/acessoainformacao.php",
+        "site": "https://pereiro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarapereiro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarapereiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pindoretama",
+    "nome": "Pindoretama",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://pindoretama.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://pindoretama.ce.gov.br/acessoainformacao.php",
+        "site": "https://pindoretama.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.pindoretama.ce.leg.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.pindoretama.ce.leg.br/"
+      }
+    }
+  },
+  {
+    "id": "piquet_carneiro",
+    "nome": "Piquet Carneiro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.piquetcarneiro.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.piquetcarneiro.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.piquetcarneiro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarapiquetcarneiro.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camarapiquetcarneiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "pires_ferreira",
+    "nome": "Pires Ferreira",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ouvidoria.piresferreira.ce.gov.br/esic/home",
+        "portal_transparencia": "https://www.piresferreira.ce.gov.br/transparencia",
+        "site": "https://www.piresferreira.ce.gov.br/site"
+      },
+      "camara": {
+        "ouvidoria": "http://ouvidoria.cmpiresferreira.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://cmpiresferreira.ce.gov.br/site"
+      }
+    }
+  },
+  {
+    "id": "poranga",
+    "nome": "Poranga",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.poranga.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.poranga.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.poranga.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraporanga.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraporanga.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "porteiras",
+    "nome": "Porteiras",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://porteiras.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "http://www.sstransparenciamunicipal.net:90/transparencia/transparenciaisapi.dll/kmW-ci4zquAVCCBrCBAajW/$/?entco",
+        "site": "https://porteiras.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraporteiras.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaraporteiras.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "potengi",
+    "nome": "Potengi",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://potengi.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://potengi.ce.gov.br/acessoainformacao.php",
+        "site": "https://potengi.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.camarapotengi.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://camarapotengi.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "potiretama",
+    "nome": "Potiretama",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.potiretama.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.potiretama.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.potiretama.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarapotiretama.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camarapotiretama.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "quiterianopolis",
+    "nome": "Quiterianópolis",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://quiterianopolis.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://quiterianopolis.ce.gov.br/acessoainformacao.php",
+        "site": "https://quiterianopolis.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "",
+        "portal_transparencia": "",
+        "site": "https://camaraquiterianopolis.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "quixada",
+    "nome": "Quixadá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://quixada.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://quixada.ce.gov.br/acessoainformacao.php",
+        "site": "https://quixada.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraquixada.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaraquixada.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "quixelo",
+    "nome": "Quixelô",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.quixelo.ce.gov.br/fale-conosco/",
+        "portal_transparencia": "http://www.sstransparenciamunicipal.net:90/transparencia/transparenciaisapi.dll/-yjaL~nzB0YOhAaw14j2ha/$/?entcod=68",
+        "site": "https://www.quixelo.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraquixelo.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraquixelo.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "quixeramobim",
+    "nome": "Quixeramobim",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.quixeramobim.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.quixeramobim.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.quixeramobim.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.gdic.com.br/modulo/ouvidoria/login/1402589",
+        "portal_transparencia": "",
+        "site": "https://www.cmquixeramobim.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "quixere",
+    "nome": "Quixeré",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.quixere.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.quixere.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.quixere.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraquixere.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camaraquixere.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "redencao",
+    "nome": "Redenção",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.redencao.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.redencao.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.redencao.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camararedencao.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camararedencao.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "reriutaba",
+    "nome": "Reriutaba",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.reriutaba.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.reriutaba.ce.gov.br/transparencia.php",
+        "site": "https://www.reriutaba.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarareriutaba.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camarareriutaba.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "russas",
+    "nome": "Russas",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://russas.ce.gov.br/acessoainformacao.php",
+        "portal_transparencia": "https://russas.ce.gov.br/acessoainformacao.php",
+        "site": "https://russas.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camararussas.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camararussas.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "saboeiro",
+    "nome": "Saboeiro",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://saboeiro.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "http://www.bssistemasweb.com.br/transparencia/home?ug=p151&ano=2022",
+        "site": "https://saboeiro.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarasaboeiro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camarasaboeiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "salitre",
+    "nome": "Salitre",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.salitre.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.salitre.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.salitre.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarasalitre.ce.gov.br/ouvidoria-1",
+        "portal_transparencia": "",
+        "site": "https://www.camarasalitre.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "santa_quiteria",
+    "nome": "Santa Quitéria",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.santaquiteria.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.santaquiteria.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.santaquiteria.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://falabr.cgu.gov.br/web/CE/Santa%20Quit%C3%A9ria?modoOuvidoria=1",
+        "portal_transparencia": "",
+        "site": "https://camarasantaquiteria.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "santana_do_acarau",
+    "nome": "Santana do Acaraú",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.santanadoacarau.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.santanadoacarau.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.santanadoacarau.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarasantanadocariri.ce.gov.br/ouvidoria-login/",
+        "portal_transparencia": "",
+        "site": "https://www.cmsantanadoacarau.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "santana_do_cariri",
+    "nome": "Santana do Cariri",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://falabr.cgu.gov.br/web/home",
+        "portal_transparencia": "https://santanadocariri.ce.gov.br/acessoainformacao.php",
+        "site": "https://santanadocariri.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarasantanadocariri.ce.gov.br/ouvidoria-login/",
+        "portal_transparencia": "",
+        "site": "https://www.camarasantanadocariri.ce.gov.br/home/"
+      }
+    }
+  },
+  {
+    "id": "sao_benedito",
+    "nome": "São Benedito",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.saobenedito.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.saobenedito.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.saobenedito.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmsaobenedito.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.cmsaobenedito.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "sao_goncalo_do_amarante",
+    "nome": "São Gonçalo do Amarante",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://participar.com.br/saogoncaloa/users/sign_in",
+        "portal_transparencia": "https://saogoncalodoamarante.ce.gov.br/portal/transparencia/",
+        "site": "https://saogoncalodoamarante.ce.gov.br/portal/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmsga.ce.gov.br/ouvidoria-cartilha/",
+        "portal_transparencia": "",
+        "site": "https://cmsga.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "sao_joao_do_jaguaribe",
+    "nome": "São João do Jaguaribe",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.saojoaodojaguaribe.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.saojoaodojaguaribe.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.saojoaodojaguaribe.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmsaojoaodojaguaribe.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmsaojoaodojaguaribe.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "sao_luis_do_curu",
+    "nome": "São Luís do Curu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.saoluisdocuru.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.saoluisdocuru.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.saoluisdocuru.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarasaoluisdocuru.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camarasaoluisdocuru.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "senador_pompeu",
+    "nome": "Senador Pompeu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.senadorpompeu.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.senadorpompeu.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.senadorpompeu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarasenadorpompeu.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camarasenadorpompeu.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "senador_sa",
+    "nome": "Senador Sá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://senadorsa.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://senadorsa.ce.gov.br/acessoainformacao.php",
+        "site": "https://senadorsa.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "",
+        "portal_transparencia": "",
+        "site": "https://www.cmsenadorsa.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "sobral",
+    "nome": "Sobral",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://sobral.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://sobral.ce.gov.br/acessoainformacao.php",
+        "site": "https://sobral.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.cms.sobral.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://camarasobral.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "solonopole",
+    "nome": "Solonópole",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://solonopole.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://solonopole.ce.gov.br/acessoainformacao.php",
+        "site": "https://solonopole.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarasolonopole.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camarasolonopole.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "tabuleiro_do_norte",
+    "nome": "Tabuleiro do Norte",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://tabuleirodonorte.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://tabuleirodonorte.ce.gov.br/acessoainformacao.php",
+        "site": "https://tabuleirodonorte.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmtabuleiro.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmtabuleiro.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "tamboril",
+    "nome": "Tamboril",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://tamboril.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://tamboril.ce.gov.br/acessoainformacao.php",
+        "site": "https://tamboril.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaratamboril.ce.gov.br/#/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaratamboril.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "tarrafas",
+    "nome": "Tarrafas",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://tarrafas.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://tarrafas.ce.gov.br/acessoainformacao.php",
+        "site": "https://tarrafas.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://ouvidoria.camaratarrafas.ce.gov.br/",
+        "portal_transparencia": "",
+        "site": "https://camaratarrafas.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "taua",
+    "nome": "Tauá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://taua.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://taua.ce.gov.br/acessoainformacao.php",
+        "site": "https://taua.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarataua.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarataua.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "tejucuoca",
+    "nome": "Tejuçuoca",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://tejucuoca.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://tejucuoca.ce.gov.br/acessoainformacao.php",
+        "site": "https://tejucuoca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://esic.cmtejucuoca.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://cmtejucuoca.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "tiangua",
+    "nome": "Tianguá",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.tiangua.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.tiangua.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.tiangua.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaratiangua.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camaratiangua.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "trairi",
+    "nome": "Trairi",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://trairi.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://trairi.ce.gov.br/acessoainformacao.php",
+        "site": "https://trairi.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmtrairi.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "",
+        "site": "https://www.cmtrairi.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "tururu",
+    "nome": "Tururu",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://tururu.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://tururu.ce.gov.br/acessoainformacao.php",
+        "site": "https://tururu.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaratururu.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaratururu.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "ubajara",
+    "nome": "Ubajara",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://ubajara.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://ubajara.ce.gov.br/acessoainformacao.php",
+        "site": "https://ubajara.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.cmubajara.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.cmubajara.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "umari",
+    "nome": "Umari",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://umari.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://umari.ce.gov.br/acessoainformacao.php",
+        "site": "https://umari.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaraumari.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaraumari.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "umirim",
+    "nome": "Umirim",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://umirim.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://umirim.ce.gov.br/acessoainformacao.php",
+        "site": "https://umirim.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://cmumirim.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://cmumirim.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "uruburetama",
+    "nome": "Uruburetama",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.uruburetama.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.uruburetama.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.uruburetama.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camarauruburetama.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://camarauruburetama.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "uruoca",
+    "nome": "Uruoca",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://uruoca.ce.gov.br/ouvidoria/",
+        "portal_transparencia": "https://uruoca.ce.gov.br/transparencia/",
+        "site": "https://uruoca.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camarauruoca.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camarauruoca.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "varjota",
+    "nome": "Varjota",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.varjota.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.varjota.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.varjota.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaravarjota.ce.gov.br/portal-ouvidoria/",
+        "portal_transparencia": "",
+        "site": "https://www.camaravarjota.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "varzea_alegre",
+    "nome": "Várzea Alegre",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://www.varzeaalegre.ce.gov.br/ouvidoria.php",
+        "portal_transparencia": "https://www.varzeaalegre.ce.gov.br/acessoainformacao.php",
+        "site": "https://www.varzeaalegre.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://www.camaravarzeaalegre.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://www.camaravarzeaalegre.ce.gov.br/"
+      }
+    }
+  },
+  {
+    "id": "vicosa_do_ceara",
+    "nome": "Viçosa do Ceará",
+    "web": {
+      "prefeitura": {
+        "ouvidoria": "https://vicosa.ce.gov.br/ouvidoria",
+        "portal_transparencia": "https://vicosa.ce.gov.br/portal-da-transparencia/",
+        "site": "https://vicosa.ce.gov.br/"
+      },
+      "camara": {
+        "ouvidoria": "https://camaravicosadoceara.ce.gov.br/ouvidoria",
+        "portal_transparencia": "",
+        "site": "https://camaravicosadoceara.ce.gov.br/"
+      }
+    }
+  }
+]
