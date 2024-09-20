@@ -102,7 +102,8 @@ async function getCamaras(){
  */
 async function getPCMunicipios(){
     try{
-        return await fetch("pc-municipais.json")
+        // return await fetch("pc-municipais.json")
+        return await fetch("https://cdn.jsdelivr.net/gh/fabricio-farias/libs@refs/heads/main/mapa-svg/pc-municipais.json")
             .then(response => {
                 if(!response.ok){
                     throw("Problema de conexao")
